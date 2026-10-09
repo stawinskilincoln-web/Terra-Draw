@@ -1,4 +1,4 @@
-const CACHE = "terra-draw-1.4";
+const CACHE = "terra-draw-1.5";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", (event) => {
